@@ -365,3 +365,7 @@ nav{
 /* main-content style end */
 
 /* main part style end */
+
+footer,small{
+    text-align: center;
+}
